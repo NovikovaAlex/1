@@ -7,5 +7,4 @@ print (2*2+2)
 print(2*(2+2))
 print (2*2+2 == 2*(2+2))
 #4th program
-name = '123.456'
 print (int(float('123.456')*10)%10)
